@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    background-image: white;
+}
+body{
+    background-color: black;
+    text-align: center;
+    font-smooth: 20px;
+    color: white;
+  
+
+    
+}
+img{
+    text-align: center;
+}
+p{
+    font-size: medium;
+}
+h2{
+    font-size: larger;
+    text-align: center;
+}
